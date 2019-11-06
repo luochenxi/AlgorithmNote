@@ -1,4 +1,3 @@
-[TOC]
 
 # AlgorithmNote
 ![](https://img.shields.io/badge/license-MIT-blue)![](https://img.shields.io/badge/label-Algorithm-orange)![](https://img.shields.io/github/issues/luochenxi/AlgorithmNote)
